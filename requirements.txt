@@ -1,0 +1,2 @@
+pygame
+git+http://github.com/pyglet/pyglet@pyglet-1.5-maintenance
